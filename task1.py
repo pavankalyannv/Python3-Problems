@@ -1,3 +1,5 @@
+# Enter a string say "aabbcddd" as a input and get the output as the count of sequence "a2b2c1d3"
+
 count=1
 instr=input("enter the string")+' '
 a=instr
