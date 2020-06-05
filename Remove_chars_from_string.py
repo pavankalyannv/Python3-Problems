@@ -6,4 +6,5 @@ for i in string:
     else:
       if(i.isdigit()):
         print(i,end="")
-  
+  output:
+    -1235-2
